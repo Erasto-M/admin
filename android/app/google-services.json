@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "812223087615",
+    "firebase_url": "https://fruit-and-car-default-rtdb.firebaseio.com",
+    "project_id": "fruit-and-car",
+    "storage_bucket": "fruit-and-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812223087615:android:f62c5a8a45cdd3f7635dca",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812223087615-29otdotv2b6ocdo12bkr49cru15tamfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdyk0QPP32FKT4dUDo_8Yv18YwM-fBRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812223087615-29otdotv2b6ocdo12bkr49cru15tamfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812223087615-df3rotjqeeve4llm4he8gi6id1f5q7lh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookbook1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812223087615:android:056cbdb4f8607dd9635dca",
+        "android_client_info": {
+          "package_name": "com.example.cookbook1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812223087615-29otdotv2b6ocdo12bkr49cru15tamfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdyk0QPP32FKT4dUDo_8Yv18YwM-fBRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812223087615-29otdotv2b6ocdo12bkr49cru15tamfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812223087615-df3rotjqeeve4llm4he8gi6id1f5q7lh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookbook1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812223087615:android:e0d9c0c3d76199ed635dca",
+        "android_client_info": {
+          "package_name": "com.example.video_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812223087615-29otdotv2b6ocdo12bkr49cru15tamfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdyk0QPP32FKT4dUDo_8Yv18YwM-fBRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812223087615-29otdotv2b6ocdo12bkr49cru15tamfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812223087615-df3rotjqeeve4llm4he8gi6id1f5q7lh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookbook1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
